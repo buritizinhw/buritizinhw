@@ -1,6 +1,1 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C14FF&width=435&lines=Hello+there!+;My+name+is+Livia+Buriti)](https://git.io/typing-svg)
-
-
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&pause=1000&color=F4EFEC&width=435&lines=Hello+There!;My+name+is+L%C3%ADvia+Buriti." alt="Typing SVG" /></a>
